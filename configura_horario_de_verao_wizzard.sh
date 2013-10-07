@@ -1,5 +1,7 @@
 #!/bin/bash
 #Script para configuração de horario de verao
+#escrito por Rogerio da Costa - rogerio@pcredesecia.com.br
+#www.pcredesecia.com.br
 
 clear
 
